@@ -24,6 +24,7 @@ After installing, I opened up my terminal and typed:
 The version numbers popped up, which was a good sign that things were working. Small win, but it felt great to see it work!
 
 🚧 Step 2: Creating the Project
+
 Once Node.js was set up, I went ahead and tried creating my first Next.js project. I used the following command in the terminal, npx create-next-app@latest:
 
 
