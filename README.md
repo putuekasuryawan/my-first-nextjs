@@ -1,2 +1,12 @@
-# my-first-nextjs
-My First Next.js Project 🚀 This repository documents my journey learning and setting up my very first Next.js project. It includes the steps I followed to install, configure, and run a basic Next.js app from scratch. Whether you're new to Next.js like me, or just curious how others get started, feel free to explore!
+# My First Next.js
+
+Hi there! 👋  
+This is my very first project using [Next.js](https://nextjs.org/).  
+Inside, you'll find:
+
+- Step-by-step notes of how I installed and set up the project
+- What I learned during the setup process
+- A simple starting page to test everything
+
+Feel free to check it out or fork it if you're starting your own journey!
+
