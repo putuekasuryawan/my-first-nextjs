@@ -8,5 +8,4 @@ Inside, you'll find:
 - What I learned during the setup process
 - A simple starting page to test everything
 
-Feel free to check it out or fork it if you're starting your own journey!
-
+This is just a simple documentation of my first steps with Next.js — hope it helps someone starting out too.
