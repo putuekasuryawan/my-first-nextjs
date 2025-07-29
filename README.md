@@ -28,6 +28,7 @@ Once Node.js was set up, first, I navigated to the folder where I usually keep a
 I wasn’t sure what to expect, but the CLI walked me through a few questions. After answering those, it generated everything in a nice folder — surprisingly quick.
 
 ⚡ Step 3: Running the Project
+
 After creating the project and jumping into the my-first-nextjs folder, I made a few tweaks to the default files — mainly layout.js and page.js — just to try and make it feel more like my project 😅
 Then, I ran this prompt:
 ![run the app](https://github.com/user-attachments/assets/73a2410a-e052-4f4b-a2d6-d803d5040155)
