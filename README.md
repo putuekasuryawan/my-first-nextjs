@@ -19,6 +19,6 @@ I went to nodejs.org and downloaded the LTS version (figured it's safer and more
 ![Instalation progress Node Js](https://github.com/user-attachments/assets/ea0793e6-b7ab-42c8-81c8-a33dce5f8483)
 
 After installing, I opened up my terminal and typed:
-
+![node and npm version](https://github.com/user-attachments/assets/4de86950-c010-4d95-88af-faa675f4496c)
 
 The version numbers popped up (mine was around v20.x.x), which was a good sign that things were working. Small win, but it felt great to see it work!
