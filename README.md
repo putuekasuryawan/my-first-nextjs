@@ -27,11 +27,13 @@ Once Node.js was set up, first, I navigated to the folder where I usually keep a
 ![create nextjs app](https://github.com/user-attachments/assets/2cfe1b69-d9a5-4a02-9816-736945578ce4)
 I wasn’t sure what to expect, but the CLI walked me through a few questions. After answering those, it generated everything in a nice folder — surprisingly quick.
 
+
 ⚡ Step 3: Running the Project
 
 After creating the project and jumping into the my-first-nextjs folder, I made a few tweaks to the default files — mainly layout.js and page.js — just to try and make it feel more like my project 😅
 Then, I ran this prompt:
 ![run the app](https://github.com/user-attachments/assets/73a2410a-e052-4f4b-a2d6-d803d5040155)
 That kicked off the development server, and it gave me a URL — http://localhost:3000
+
 I opened that link in my browser, and voila... 🎉 the page loaded!
 It showed my customized version of the welcome screen, with the changes I made showing up right away. That was the moment it really felt like something was working.
