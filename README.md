@@ -18,6 +18,10 @@ I went to nodejs.org and downloaded the LTS version (figured it's safer and more
 <img width="947" height="175" alt="image" src="https://github.com/user-attachments/assets/4270ce83-5774-4e0a-9f7d-8dc1a548d762" />
 
 
+https://github.com/user-attachments/assets/3b65312f-25f1-496a-be83-bc6a8ce3a4c4
+
+
+
 After installing, I opened up my terminal and typed:
 
 
