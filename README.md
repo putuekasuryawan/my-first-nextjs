@@ -39,3 +39,8 @@ That kicked off the development server, and it gave me a URL — http://localhos
 
 I opened that link in my browser, and voila... 🎉 the page loaded!
 It showed my customized version of the welcome screen, with the changes I made showing up right away. That was the moment it really felt like something was working.
+
+🏁 Final Project Output
+This is the final result of the project:
+<img width="1671" height="886" alt="image" src="https://github.com/user-attachments/assets/83db2e2f-3466-42d5-92c8-e5f723c56362" />
+
