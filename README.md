@@ -9,7 +9,6 @@ Inside, you'll find:
 - A simple starting page to test everything
 
 This is just a simple documentation of my first steps with Next.js — hope it helps someone starting out too.
-<br />
 
 🛠️ Step 1: Getting Ready
 
@@ -21,10 +20,19 @@ I went to nodejs.org and downloaded the LTS version (figured it's safer and more
 After installing, I opened up my terminal and typed:
 ![node and npm version](https://github.com/user-attachments/assets/4de86950-c010-4d95-88af-faa675f4496c)
 The version numbers popped up, which was a good sign that things were working. Small win, but it felt great to see it work!
-<br />
 
 🚧 Step 2: Creating the Project
 
 Once Node.js was set up, first, I navigated to the folder where I usually keep all my personal projects, in this case C:\Users\Eka Suryawan\Documents\PROJECT\NEXTJS, then I used the following command in the terminal, npx create-next-app@latest
 ![create nextjs app](https://github.com/user-attachments/assets/2cfe1b69-d9a5-4a02-9816-736945578ce4)
 I wasn’t sure what to expect, but the CLI walked me through a few questions. After answering those, it generated everything in a nice folder — surprisingly quick.
+
+⚡ Step 3: Running the Project
+After creating the project and jumping into the my-first-nextjs folder, I made a few tweaks to the default files — mainly layout.js and page.js — just to try and make it feel more like my project, not just the template.
+
+Then, I ran this prompt:
+
+That kicked off the development server, and it gave me a URL — http://localhost:3000
+
+I opened that link in my browser, and boom... 🎉 the page loaded!
+It showed my customized version of the welcome screen, with the changes I made showing up right away. That was the moment it really felt like something was working.
