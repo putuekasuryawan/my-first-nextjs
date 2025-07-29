@@ -32,7 +32,9 @@ I wasn’t sure what to expect, but the CLI walked me through a few questions. A
 
 After creating the project and jumping into the my-first-nextjs folder, I made a few tweaks to the default files — mainly layout.js and page.js — just to try and make it feel more like my project 😅
 Then, I ran this prompt:
-![run the app](https://github.com/user-attachments/assets/73a2410a-e052-4f4b-a2d6-d803d5040155)
+```bash
+npm run dev
+```
 That kicked off the development server, and it gave me a URL — http://localhost:3000
 
 I opened that link in my browser, and voila... 🎉 the page loaded!
