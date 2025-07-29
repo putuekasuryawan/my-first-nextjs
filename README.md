@@ -9,7 +9,7 @@ Inside, you'll find:
 - A simple starting page to test everything
 
 This is just a simple documentation of my first steps with Next.js — hope it helps someone starting out too.
-
+<br />
 
 🛠️ Step 1: Getting Ready
 
@@ -21,7 +21,7 @@ I went to nodejs.org and downloaded the LTS version (figured it's safer and more
 After installing, I opened up my terminal and typed:
 ![node and npm version](https://github.com/user-attachments/assets/4de86950-c010-4d95-88af-faa675f4496c)
 The version numbers popped up, which was a good sign that things were working. Small win, but it felt great to see it work!
-
+<br />
 
 🚧 Step 2: Creating the Project
 
