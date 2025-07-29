@@ -25,22 +25,21 @@ The version numbers popped up, which was a good sign that things were working. S
 
 🚧 Step 2: Creating the Project
 
-Once Node.js was set up, I went ahead and tried creating my first Next.js project. I used the following command in the terminal, npx create-next-app@latest:
+Once Node.js was set up, I went ahead and tried creating my first Next.js project. I used the following command in the terminal, npx create-next-app@latest
+![create nextjs app](https://github.com/user-attachments/assets/2cfe1b69-d9a5-4a02-9816-736945578ce4)
 
+I wasn’t sure what to expect, but the CLI walked me through a few questions:
 
+Project name — I just typed something like my-first-nextjs
 
-It asked me a few questions, and here's how I answered:
+TypeScript or JavaScript — I went with JavaScript (keeping things simple for now)
 
-Project name: my-first-nextjs
+ESLint — said yes, because why not?
 
-TypeScript: I picked No (keeping it simple for now)
+Tailwind CSS — also yes! I’ve always wanted to try it
 
-ESLint: Yes
+Use src/ directory? — clicked yes, seemed like the clean way to go
 
-Tailwind CSS: Yes, because I’ve been meaning to try it
+App Router — I heard it’s the new thing in Next.js, so I went with that too
 
-Use src/ directory: Yes
-
-App Router: Yes (seems to be the new standard in Next.js)
-
-After that, it generated a full project folder named my-first-nextjs with everything set up.
+After answering those, it generated everything in a nice folder — surprisingly quick.
