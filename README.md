@@ -11,6 +11,7 @@ Inside, you'll find:
 This is just a simple documentation of my first steps with Next.js — hope it helps someone starting out too.
 
 🛠️ Step 1: Getting Ready
+
 Before jumping into Next.js, I found out that I needed to install Node.js first — it’s basically what makes everything run in the background.
 
 I went to nodejs.org and downloaded the LTS version (figured it's safer and more stable for a beginner like me 😅).
